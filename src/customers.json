@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "first_name": "Parag",
+        "last_name": "Bokde",
+        "city": "Bengaluru",
+        "company": "Sublime Data Systems"
+    },
+    {
+        "id": 2,
+        "first_name": "Sahil",
+        "last_name": "Verma",
+        "city": "Hyderabad",
+        "company": "HSBC"
+    },
+    {
+        "id": 3,
+        "first_name": "Deepak",
+        "last_name": "Kaibart",
+        "city": "Jharkhand",
+        "company": "TATA"
+    },
+    {
+        "id": 4,
+        "first_name": "Kishan",
+        "last_name": "Kumar",
+        "city": "Delhi",
+        "company": "Enlive Tech"
+    },
+    {
+        "id": 5,
+        "first_name": "Jitesh",
+        "last_name": "Chowdhary",
+        "city": "Jaipur",
+        "company": "HCL"
+    },
+    {
+        "id": 6,
+        "first_name": "Shubham",
+        "last_name": "Vanjari",
+        "city": "Bengaluru",
+        "company": "Apple"
+    },
+    {
+        "id": 7,
+        "first_name": "Saket",
+        "last_name": "Jadhav",
+        "city": "Bengaluru",
+        "company": "MG Motors"
+    },
+    {
+        "id": 8,
+        "first_name": "Nikhaar",
+        "last_name": "Kachhara",
+        "city": "Jaipur",
+        "company": "HCL"
+    },
+    {
+        "id": 9,
+        "first_name": "Salman",
+        "last_name": "Mehboob",
+        "city": "Delhi",
+        "company": "HashedIn"
+    },
+    {
+        "id": 10,
+        "first_name": "Heet",
+        "last_name": "Modi",
+        "city": "Bengaluru",
+        "company": "HashedIn"
+    },
+    {
+        "id": 11,
+        "first_name": "Sripadh",
+        "last_name": "Pandit",
+        "city": "Pune",
+        "company": "Cure.fit"
+    }
+]
